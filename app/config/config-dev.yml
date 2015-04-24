@@ -1,0 +1,6 @@
+doctrine:
+    host: localhost
+    database: coursphp
+    username: root
+    password:
+    driver: pdo_mysql
